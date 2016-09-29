@@ -1,4 +1,4 @@
 learnshare.github.io
 ====================
 
-My github website
+一个基于web端的个人简历展示网站
